@@ -1,0 +1,212 @@
+body{
+	
+	padding:0px;
+	margin:0px;
+	background-color:white;
+	
+}
+
+.page{
+	padding:15px;
+	
+
+	
+}
+.basic{
+	text-decoration: none;
+	line-height:1.6em;
+	font-family: Arial;
+	text-align:left;
+	border: 1px dotted;
+	padding:14px;
+	margin-bottom:19px;
+	
+}
+.goal-content{
+	text-decoration: none;
+	line-height:1.6em;
+	font-family: Vrinda;
+	text-align:left;
+	border: 1px dotted;
+	padding:14px;
+	
+	
+}
+.skill{
+	
+	text-decoration: none;
+	line-height:1.6em;
+	font-family: SimSun;
+	text-align:left;
+	border: 1px dotted;
+	padding:14px;
+	margin-top:18px;
+}
+.h {
+	background-color:gray;
+	padding:5px;
+}
+.h a{
+	color:white;
+	text-decoration:none;
+	margin-left:30px;
+	padding:3px;
+
+}
+
+ .h a:hover{
+	background:blue;
+	
+}
+
+.para{
+	text-decoration:none;
+	color:black;
+	
+}
+.a1{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.a1:hover{
+	
+	text-decoration:underline;
+	
+}
+.a2{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.a2:hover{
+	
+	text-decoration:underline;
+	
+}
+.a3{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.a3:hover{
+	
+	text-decoration:underline;
+	
+}
+.a4{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.a4:hover{
+	
+	text-decoration:underline;
+	
+}
+.a5{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.a5:hover{
+	
+	text-decoration:underline;
+	
+}
+.p1{
+	color:blue;
+	
+}
+.st{
+	color:blue;
+	text-decoration:none;
+	
+}
+.st:hover{
+	
+	text-decoration:underline;
+	
+}
+.c{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.c:hover{
+	
+	text-decoration:underline;
+	
+}
+.cplus{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.cplus:hover{
+	
+	text-decoration:underline;
+	
+}
+.java{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.java:hover{
+	
+	text-decoration:underline;
+	
+}
+.sql{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.sql:hover{
+	
+	text-decoration:underline;
+	
+}
+.js{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.js:hover{
+	
+	text-decoration:underline;
+	
+}
+.php{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.php:hover{
+	
+	text-decoration:underline;
+	
+}
+.python{
+	text-decoration:none;
+	color:blue;
+	
+	
+}
+.python:hover{
+	
+	text-decoration:underline;
+	
+}

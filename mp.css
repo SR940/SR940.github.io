@@ -1,0 +1,188 @@
+body{
+	background:#2d1b2b;
+	padding:0px;
+	margin:0px;
+	background-repeat:no-repeat;
+	
+}
+
+.sa{
+	padding: 0px 25px;
+	color:green;
+	text-align:center;
+	
+
+	
+}
+
+.header{
+	
+	background:#2f3945;
+	padding-bottom:15px;
+	
+
+	
+}
+.header ul{
+	padding-left:5px;
+	margin:15px;
+	list-style-type: none;
+	font-size:18px;
+	
+}
+ .header li{
+	 color:white;
+	 list-style:none;
+	 float:left;
+	 padding-bottom:5px;
+	margin-left:8px;
+	
+}
+.header li a{
+    color: white;
+    padding: 4px ;
+    text-decoration: none;
+	
+}
+.header li a:hover{
+	background:#0b2412;
+	
+}
+
+.profile{
+	padding-top:0px;
+	margin-top:10px;
+	margin-left:5%;
+	margin-bottom:10px;
+	background:#777990;
+	overflow:hidden;
+	top:10%;
+	left:20%;
+	transform:translate(-50% -80%);
+	width:750px;
+	height:718px;
+	position:relative;
+	/*border-radius:50%;*/
+	
+}
+.profile::before {
+    content: '';
+    position: absolute;
+    border-top: 30px solid transparent;
+    border-left: 980px solid #2d1b2b;
+    top: 677px;
+    border-bottom: 50px solid #2d1b2b;
+}
+
+.he{
+	padding:80px;
+	width:50px;
+	height:280px;
+	margin-left:50px;
+	position:relative;
+	
+}
+.he img{
+	margin-left:45px;
+	width:400px;
+	height:250px;
+	/*border-radius:50%; */
+
+}
+
+.he:before{
+	content: '';
+	position: absolute;
+	border-top: 44px solid transparent;
+	border-right: 550px solid #777990;
+	bottom: 110px;
+
+
+}
+
+.content{
+	color:#8cbaae;
+	padding-top:2px;
+	background:#2f3945;
+	text-align:center;
+	size:10%;
+	margin:5px;
+	
+
+}
+
+p{
+	padding:5px;
+	text-align:center;
+	margin:3px;
+	overflow:none;
+	text-decoration: none;
+	
+	
+}
+
+.content ul {
+	list-style:none;
+	text-decoration:inline;
+	list-style:none;
+	
+}
+.content li{
+	color:white;
+	list-style:none;
+	float:left;
+	padding-top:5px;
+	padding-left:75px;
+	font-size:35px;
+	font-size-adjust:15px;
+	position:center;
+}
+.content li p{
+	font-size:18px;
+	font-style: italic;
+	color:#000;
+	
+	
+}
+.content li a {
+	
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	text-align:center;
+	display:inline-block;
+	border-radius:50%;
+	background:#0b1414;
+	margin-top:15px;
+	
+}
+.content li a:hover{
+	background:green;
+	
+}
+
+
+
+a{
+	
+	float:left;
+	text-align:center;
+	
+}
+
+.footer{
+	color:cyan;
+	background:#243c34;
+	padding:15px;
+	text-align:center;
+	margin-top:50px;
+	
+	
+}
+.sa1{
+	border:solid 1px ;
+	width:500px;
+	margin-left:15%;
+	
+	
+}
